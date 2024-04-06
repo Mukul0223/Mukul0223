@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated final-year Computer Science student seeking a software development role. Possesses practical experience in Python, C++, HTML, CSS, JavaScript and Node.js. Demonstrated aptitude for quick learning, problem-solving, and thriving in challenging environments. Eager to contribute technical expertise, adaptability, and a fresh perspective to a dynamic software development team. Looking forward to collaborating with passionate developers and creating impactful solutions together.
+Highly motivated Computer Science student seeking a software development role. Possesses practical experience in Python, C++, HTML, CSS, JavaScript and Node.js. Demonstrated aptitude for quick learning, problem-solving, and thriving in challenging environments. Eager to contribute technical expertise, adaptability, and a fresh perspective to a dynamic software development team. Looking forward to collaborating with passionate developers and creating impactful solutions together.
 
 
 ## 🌐 Socials:
